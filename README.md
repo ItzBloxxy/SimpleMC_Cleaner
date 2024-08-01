@@ -8,4 +8,4 @@ What does it clean?
 🚮 **Log Files** 📄: These files are found in the `logs` folder and record various game events.  
 🚫 **Crash Reports**: These files are found in the `crash-reports` folder and contain information about game crashes.
 
-Enjoy a faster boot time and a cleaner Minecraft.
+Enjoy a faster boot time and a cleaner Minecraft!
