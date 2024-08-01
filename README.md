@@ -1,4 +1,4 @@
-# Windows 7, Windows 8, Windows 8.1, Windows 10, Windows 11
+## Windows 7, Windows 8, Windows 8.1, Windows 10, Windows 11
 
 **SimpleMC_Cleaner** is a simple tool to help you clean up your Minecraft directory by removing log files and crash reports.
 
